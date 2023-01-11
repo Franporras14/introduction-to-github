@@ -22,22 +22,39 @@ Entrega un pantallazo que demuestre que lo has finalizado y responde a las sigui
 
 3. Qué es una nueva característica en el código (new feature)
 
+   Una señal que indica que hay código nuevo o modificado respectoa commits anteriores
+
 4. Qué es un pull request
 
-   Las Pull requests son solicitudes de admisión de código. Los usuarios pueden editar cualquier archivo de código de un repositorio, ya sea a través del editor integrado de GitHub o desde su ambiente local. Cuando el usuario ha editado uno o varios archivos, puede enviar la solicitud al repositorio que quiere modificar. De esta forma, se creará una solicitud en la pestaña de pull requests, donde el creador del repositorio o los colaboradores pueden decidir si aceptar o denegar la solicitud. Adicionalmente, pueden revisar el código y enviar comentarios a modo de retroalimentación. Este proceso se conoce como «revisión de código».Al igual que con los issues, es posible asignar usuarios y etiquetas a las pull requests.
+   Procesos de revisión de código, son solicitudes de admisión de código. Los usuarios pueden editar cualquier archivo de código de un repositorio, ya sea a través del editor integrado de GitHub o desde su ambiente local. Cuando el usuario ha editado uno o varios archivos, puede enviar la solicitud al repositorio que quiere modificar. Se creará una solicitud en la pestaña de pull requests, donde el creador del repositorio o los colaboradores pueden decidir si aceptar o denegar la solicitud. Adicionalmente, pueden revisar el código y enviar comentarios a modo de retroalimentación, también es posible asignar usuarios y etiquetas a las pull requests.
 
 5. Qué es un merge
+
+   Git merge fusiona dos ramas o branches en una y te permite guardar tus cambios con seguridad. En la mayoría de los casos, las diferentes líneas de desarrollo se integran en la rama main.
 
 6. Qué es un issue
 
    Los Issues, llamados «propuestas» en español, se asemejan, en cierta medida, a los hilos en algunos foros y redes sociales: son publicaciones que tratan sobre una cuestión en específico. En GitHub, los issues son abiertos por usuarios que tienen un fallo con el código del repositorio y quieren recibir ayuda para solucionarlo, por usuarios que quieren plantear una compleja mejora del programa, entre otros usos. Se pueden enlazar pull requests a los issues, así como asignar usuarios y etiquetas.
 
 7. Qué es una mención y qué implica
+ 
+   Sirve para indicar quien es el autor
+
 8. Qué es una etiqueta (label) y por qué su uso
 9. Qué son las notificaciones. Indica las tres opciones de notificaciones
+
+   Github tiene laa opcion de enviar notificacione, y las distintas formas de hacerlo son:
+
+   Notificar toda la actividad.
+
+   Notificar menciones
+
+   Ignorar
+
 10. Qué son GitHub Pages
 
     GitHub ofrece un servicio con el que los usuarios pueden subir un sitio web directamente desde los servidores de GitHub, sin la necesidad de un almacenamiento externo en la nube. Estas páginas pueden ser creadas tanto para proyectos como para usuarios (a modo de portfolio), y el proceso es muy sencillo, pues basta con ir a la configuración del repositorio y a la sección de GitHub Pages. Es necesario que en el repositorio haya una estructura de archivos de sitios web que pueda ser leído por GitHub (como HTML); GitHub hará todo el trabajo automáticamente, pero el usuario puede cambiar la fuente de publicación si decide almacenar los archivos en un directorio diferente
+
 11. Qué es GitHub Flow
 
     Git Flow es una estrategia creada para mejorar la organización de Branchs (ramificaciones) dentro del repositorio y, de esta forma, dar más fluidez al proceso de nuevos Features y Releases. Está centralizado como SVN y también está descentralizado, lo que permite que muchos equipos trabajen de forma independiente entre ellos, siempre pasando por el repositorio central.
